@@ -23,3 +23,19 @@
 - Construção do back-end
 - Adicionando módulo CORS
 - Enviando back-end ao Github
+
+## Terceiro dia
+
+- Limpando estrutura
+- Conceitos de React 
+    - Componente
+    - JSX
+    - Propriedades
+    - Estado
+    - Imutabilidade
+- Página de login
+- Configurando Rotas
+- Cadastro de ONGs
+- Listagem de casos
+- Cadastro de um novo caso
+- Conectando aplicação à API
