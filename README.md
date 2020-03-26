@@ -39,3 +39,27 @@
 - Listagem de casos
 - Cadastro de um novo caso
 - Conectando aplicação à API
+
+## Quarto dia
+
+- Instalando Expo
+- Criando projeto React Native
+- Executar Projeto 
+    - No celular
+    - Emuladores
+    - Expo Snack
+- Diferenças para o ReactJS
+    - Elementos HTML
+    - Semântica
+    - Estilização
+        - Flexbox
+        - Propriedades
+        - Herança de estilos
+        - Estilização própria
+- Estrutura de ícones
+- Ícone e Splash Screen
+- Configurando navegação
+- Página de casos
+- Detalhe do caso
+- Abrindo WhatsApp & E-mail
+- Conexão com API
