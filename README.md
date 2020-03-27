@@ -63,3 +63,17 @@
 - Detalhe do caso
 - Abrindo WhatsApp & E-mail
 - Conexão com API
+
+
+## Quinto dia
+
+- Adicionando validação
+- Adicionando testes
+    - TDD
+    - Configurando Jest
+    - Tipos de testes
+    - Configurando banco de testes
+    - Instalando supertest
+    - Testando rota de autenticação
+- Deploy
+    - Alternativas
